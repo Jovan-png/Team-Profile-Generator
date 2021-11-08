@@ -1,3 +1,3 @@
-const startPrompt = require('../Team-Profile-Generator/lib/app');
+const InitPrompt = require('../Team-Profile-Generator/lib/app');
 
-new startPrompt().InitPrompt();
+InitPrompt();
