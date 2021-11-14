@@ -21,7 +21,7 @@ Made By Jovan
 
 ## Installation
 
-1. Clone Repository. 2. Install node js. 3. Run command "npm install" in terminal.
+1. Clone Repository. 2. Install node js. 3. Run command "npm install" in terminal 4. install inquirer using "npm i inquirer".
 
 ## Usage
 
@@ -62,3 +62,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Walthrough Video
+[Click Here](https://youtu.be/Uz9fLclV6Fg)
