@@ -21,12 +21,6 @@ test('Creates Intern Id', ()=>{
 
     expect(employ.id).toBe(id)
 })
-test('Creates Intern School', ()=>{
-    const school = 'UWM';
-    const employ = new Intern('Jovan',50 ,'email', school)
-
-    expect(employ.school).toBe(school)
-})
 test('Creates Intern Email', ()=>{
     const email = 'jovan@gmail.com';
     const employ = new Intern('Jovan',50 ,email)
