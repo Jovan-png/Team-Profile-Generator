@@ -1,128 +1,64 @@
+# Team Profile Generator
 
+![License](https://img.shields.io/badge/MIT-blue)
 
-      <!DOCTYPE html>
-      <html lang="en">
-      <head>
-          <meta charset="UTF-8">
-          <meta http-equiv="X-UA-Compatible" content="IE=edge">
-          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Team Profile</title>
-      </head>
-      <style>
-      * {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-      }
-      header {
-        background-color: rgb(231, 87, 87);
-        height: 200px;
-        text-align: center;
-        color: aliceblue;
-      }
-      header h1 {
-        padding-top: 50px;
-      }
-      .card-container {
-        height: 300px;
-        width: 200px;
-        margin-left: 50px;
-        margin-top: 25px;
-        box-shadow: 1px 1px 8px;
-      }
-      .card-container h2 {
-        padding-left: 5px;
-        padding-top: 5px;
-        color: #fff;
-      }
-      .card-info-container {
-        width: 100%;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-      }
-      li{
-          list-style: none;
-          background-color: #fff;
-          border: 1px solid #f6f7f9;
-          height: 30px;
-      }
-      .card-info {
-        border: 1px solid #f6f7f9;
-        padding-left: 5px;
-        width: 80%;
-        margin-left: 10px;
-        height: 30px;
-      }
-      .card-header {
-        background-color: #0077f7;
-        height: 30%;
-        width: 100%;
-      }
-      .card-body {
-        background-color: #f6f7f9;
-        height: 70%;
-        width: 100%;
-      }
-      
-      </style>
-      <body>
-          <header>
-              <h1>My team</h1>
-          </header>
-          
-  <div class="card-container">
-  <div class="card-header">
-  
-      <h2>
-    
-  </h2>
-  <h2>
-     
-  </h2>
-          </div>
-          <div class="card-body">
-              <div class="card-info-container">
-  <div class="card-info">
-      <ul>
-          <li>ID:f </li>
-          <li>Email:fsdsdf</li>
-          <li></li>
-      </ul>
-  </div>
-  </div>
-  
-          </div>
-      </div>
-  }
-     
-  <div class="card-container">
-  <div class="card-header">
-  
-      <h2>
-    
-  </h2>
-  <h2>
-     
-  </h2>
-          </div>
-          <div class="card-body">
-              <div class="card-info-container">
-  <div class="card-info">
-      <ul>
-          <li>ID:dfs </li>
-          <li>Email:sdffds</li>
-          <li></li>
-      </ul>
-  </div>
-  </div>
-  
-          </div>
-      </div>
-  }
-     
-              </body>
-              </html>
-              
+## Description
+
+    For the Team Profile Generator, you input your employee's name,email, and id along with their role. The end product outputs an HTML page fully styled with links to gitHub and emails.
+
+## Tables Of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
+
+## Contributing
+
+Made By Jovan
+
+## Installation
+
+1. Clone Repository. 2. Install node js. 3. Run command "npm install" in terminal.
+
+## Usage
+
+1. Start application with "node index.js". 2. Answer each prompt.
+
+## Tests
+
+N/A
+
+## Questions
+
+Here's a link to my Github Profile.
+https://github.com/jovan-png
+
+If you have any additional questions please reach me at
+norringtonjovan@gmail.com
+
+## License
+
+        MIT License
+
+Copyright (c) 2021
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
