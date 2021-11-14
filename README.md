@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/MIT-blue)
 
 ## Description
-For the Team Profile Generator, you input your employee's name,email, and id along with their role. The end product outputs an HTML page fully styled with links to gitHub and emails.
+For the Team Profile Generator, you input your employee's name,email, and id along with their role and or github, office Number, or School. The end product outputs an HTML page fully styled with links to gitHub and emails.
 
 ## Tables Of Contents
 
