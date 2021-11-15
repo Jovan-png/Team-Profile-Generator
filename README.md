@@ -64,3 +64,8 @@ SOFTWARE.
 
 ## Walthrough Video
 [Click Here](https://youtu.be/Uz9fLclV6Fg)
+
+## Screenshot
+![screencapture-127-0-0-1-5500-sample-HTML-index-html-2021-11-14-19_25_20](https://user-images.githubusercontent.com/88255194/141708214-7e1429e5-b420-4018-b6d5-4b96e03b222b.png)
+
+
